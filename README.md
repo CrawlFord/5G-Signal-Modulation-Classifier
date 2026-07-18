@@ -36,7 +36,7 @@ Published the trained model to [Hugging Face Hub](https://huggingface.co/tandrew
 ```python
 from model import ModulationClassifier
 
-model = ModulationClassifier.from_pretrained("your-hf-username/5g-modulation-classifier")
+model = ModulationClassifier.from_pretrained("tandrewu1/5G-Signal-Modulation-Classifier")
 model.eval()
 ```
 
