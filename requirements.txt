@@ -1,4 +1,0 @@
-torch
-huggingface_hub
-numpy
-safetensors>=0.4.3
