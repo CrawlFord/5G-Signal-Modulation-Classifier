@@ -45,9 +45,16 @@ model.eval()
 - `train.ipynb` - Full training notebook (run on Google Colab)
 - `app.py` - Gradio demo for Hugging Face Spaces
 - `requirements.txt` - Dependencies for the Space
-- `signal_examples.png` - Visualization of different modulation types
-- `accuracy_vs_snr.png` - Accuracy vs SNR performance chart
-- `confusion_matrix.png` - Confusion matrix at high SNR
+
+### Visualization of Different Modulation Types
+![Login options](docs/screenshots/signal_examples.png)
+
+### Accuracy vs SNR Performance Chart
+![Main menu](docs/screenshots/accuracy_vs_snr.png)
+
+### Confusion Matrix at High SNR
+![Difficulty selection](docs/screenshots/confusion_matrix.png)
+
 
 ## Dataset
 
